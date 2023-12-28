@@ -61,12 +61,12 @@ int s,a,b;
 	do{
 		
 		printf("\n-----------------------\n");
-		printf("1. addition\n");
-		printf("2. substraction\n");
-		printf("3. multiplication\n");
-		printf("4. division\n");
-		printf("5. modulo\n");
-		printf("6. exit\n");
+		printf("Press 1 for addition\n");
+		printf("Press 2 substraction\n");
+		printf("Press 3 for multiplication\n");
+		printf("Press 4 for division\n");
+		printf("Press 5 for modulo\n");
+		printf("Press 6 for the exit\n");
 				
 		printf("enter selected number :");
 		scanf("%d",&s);
